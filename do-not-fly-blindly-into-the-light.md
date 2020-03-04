@@ -1,9 +1,7 @@
+### Do Not Fly Blindly Into the Light
+#### Why the most obvious markets for security technology may not be the best
 
-<div style="font-size:24pt; text-align:center; margin-bottom: 1pt">
-Do Not Fly Blindly Into the Light
-</div><div style="font-size:14pt; text-align:center; margin-top:1pt;margin-bottom:16pt;font-style:italic;">
-Why the most obvious markets for security technology may not be the best
-</div>
+---
 
 It’s hard not to feel tiny while descending the escalator to the 37-foot high subterranean expo floor of the Moscone Center, which encompasses two city blocks of prime San Francisco real estate. It’s also hard not to feel envious of the companies that signal their success here at the RSA Security Conference; their wealth affords them multi-story demo huts, armies of sales people, and swanky parties.
 
