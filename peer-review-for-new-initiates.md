@@ -1,84 +1,74 @@
-# _We_ are Why Peer Review is Toxic:<br> A guide for aspiring scientists
+## The Systemic Toxin that Poisons Peer Review
 
-##### Scientific peer review is systemically toxic, and will be, so long as we allow it to be co-opted for social stratification.
+<!-- ##### Scientific peer review is systemically toxic, and will be, so long as scientists allow it to be co-opted for social stratification. -->
 
-When we introduce the concept of peer review to aspiring scientists, the press, and other outsiders, we typically focus on the noble goal of protecting objectivity and accuracy of research. We explain how, no matter how expert we are in designing, conducting, and presenting research, we can improve it by inviting disinterested parties to scrutinize our work. After all, those who are not invested in the research are less likely to overlook mistakes that we may subconsciously ignore in our own work, and are not subject to the group think that can evolve among collaborators.
+<!-- em — , en – -->
 
-Tellingly, we tend not to reveal to those unfamiliar with how peer review actually works that, in much of science, it has been co-opted to rank research and, by extension, to rank the scientists performing that research. Most peer review is conducted by conferences and journals, each with has its own brand, tier of prestige, and expectations for what makes research worthy of publication. These expectations go beyond the scientific imperatives of objectivity and accuracy, introducing subjective goals such as *novelty,* *impact,* and the particularly nebulous catch-all (or *drop-all* for rejecting any paper) of *significance of contribution*. These conferences and journals exist within a larger social stratification system that ranks research by where it is published, ranks scientists by their ability to accumulate publications with prestigious brands, and distributes jobs and notoriety using these rankings.
-
-Ranking research by whether it is worthy of attention and acclaim subverts the scientific goals of accuracy the objectivity. Yet, most everyone who participates in peer review accept its co-option unquestioningly. How are scientists so easily co-opted in subverting science?
-
-Peer review committees are made up almost entirely of those who thrived as scientists, or at least survived, despite the toxic impact of this co-option. Further, maintaining status in the social stratification system requires one to participate in it when authoring or reviewing research, further perpetuating it. To avoid reckoning with our complicity in this system, most of us learn to attribute its toxicity to its most egregious reviewers -- the most visible symptoms of the very cancer we ourselves are feeding.
-
-Perpetuating the co-option of scientific peer review for social stratification is, in fact, a choice, and one we should not make without reckoning with the consequences and alternatives. 
+**Peer review, purportedly a tool for scientific objectivity, is toxic because of its co-option for social ranking.**
 
 
-#### The consequences of co-option
-By perpetuating the co-option of peer review for social ranking, we are responsible for making science less objective and accurate. We create incentives for scientists to report only those tests that surpass a threshold of statistical significance, and not reporting those that don't, thereby exaggerating the implied likelihood that hypotheses deemed significant are in fact true. We reward those who exaggerate results. We discourage scientists from disclosing reasons why we might not want to trust their results.
+When scientists introduce the concept of peer review to outsiders, we typically focus on the scientific ideal of the search for truth. We explain that, no matter how expert we are in designing, conducting, and presenting research, we can make our work more accurate and objective by inviting disinterested parties to scrutinize it. After all, those who are not invested in the research are less likely to overlooking errors or misleading statements that we may subconsciously ignore in our own work, and are not subject to the group think that can evolve among collaborators.
 
-Embracing the subjectivity of social ranking gives aspiring scientists toxic mixed messages. We tell them to pursue novel approaches, then reject them because we would have taken a different approach. We reject intuitive results from being unsurprising or insufficiently novel, and reject other results because they are counterintuitive and should not be published without further exploration to explain them. Because our feedback must justify our social ranking decision we explain why the work failed to receive more praise ("needs more clarity on contribution") and often gloss over the specifics necessary to ensure it can be published without misleading readers.
+<!-- Alas, this ideal of scientific peer review, as a mechanism for truth and objectivity is mostly a fiction.
 
-When peer review committees expect submitted papers to be of a quality that feels subjectively as good as those previously published, they end up rejecting diverse work for simply being different. Thus, scientists expend a great amount of time and effort to expectations that are unrelated to the goals of science. For example, most papers in my field have a related work section with over 50 citations, often running beyond 100. Those writing a paper on a novel topic that only needs five to ten citations will often add dozens of tangentially-related works to ensure their citation count is at least above the average of past accepted papers. The result is that the number of citations grows each year, most research papers have far more citations than they actually need, and so few papers actually have space to provide background and insight into the prior work that is actually important for the reader to understand. Similarly, while the amount of information in research papers varies greatly, almost all will fit in exactly the limit given by the submission instructions.
+**Peer review has been co-opted as a mechanism of social stratification, and this co-option is a toxin that is antithetical to our scientific goals and ideals.** -->
 
-Because we reject papers for myriad reasons other than inaccuracy, we delay the dissemination of information and advancement of science.
+But protecting truth is too often only the secondary purpose of peer review. New PhD students and other aspiring scientists quickly learn that peer review is the linchpin of the system we scientists use to rank research and, by extension, to rank each other. We submit our research to conferences and journals each with has its own brand, tier of prestige, and peer review process. Each of these publications' peer review processes have their own expectations for what makes research worthy of publication, which go far beyond ensuring that it does not mislead. Peer review committees introduce subjective goals such as *novelty,* *impact,* and the particularly nebulous catch-all (or *drop-all* for rejecting any paper) of *significance of contribution*.
+
+Conferences and journals exist within a larger social stratification system that ranks research by where it is published, ranks scientists by their ability to accumulate publications with prestigious brands, and distributes jobs and notoriety using these rankings.
+
+Enforcing a social ranking *necessitates* rejecting some research that is merely objective and accurate (or can be easily revised to meet these goals) lest there be no way to establish which research is most worthy of attention, acclaim, and a higher ranking. Subjective metrics can also tempt authors to obscure the truth and reviewers to bias which results they deem credible or notable, subverting the goals of science. The resulting process is toxic to scientists who often see even their best work rejected for reasons unrelated to its accuracy or objectivity.
+
+The scientists who perpetuate the co-option of peer review for social ranking are those who survived it: peer review committees are made up almost entirely of those who thrived as scientists, or at least completed a PhD program, by getting their work (eventually) accepted by peer reviewers. Those not "thick skinned" enough to tolerate the toxicity don't survive. One cannot train new students to survive in science without training them to survive it and participating in it (perpetuating it) yourself.
+
+To avoid reckoning with our complicity, many scientists find it convenient to attribute peer review's toxicity to the most egregious reviewers—the most visible symptoms of the very cancer we ourselves are feeding. 
+
+While isolating scientific peer review from ranking will require us to build a consensus to take action, failing to make the effort to do so is a choice and one we should not make without considering our options and the cost of failure.
 
 
+<!-- Most every scientist who has submitted work for peer review has received ill-informed, aggressive, or otherwise toxic reviews.
 
-Some advocates for our system of peer review believe that we play an important role in "curating" research for others to consume.
+The most comforting explanation for the toxicity that pervades peer review is that the responsible reviewers are a small but egregiously toxic subset that poison the process—the so-called *Reviewer B*s. Alas, it cannot explain how it is possible that most papers submitted for review are rejected despite being co-authored by career scientists who have successfully conducted and published research before.  -->
 
-We are responsible for discouraging our fellow scientists from performing work that makes incremental progress, or confirms prior results, both of which are critical to the advancement of science.
+<!-- Most explanations for the toxicity endemic to scientific peer review conveniently put the blame on to *others*—the *Reviewer B*s that seem to pervasive in our reviews but who cannot be our friends or ourselves. -->
+
+#### Social ranking is harmful to peer review
 
 
+By perpetuating the co-option of peer review for social ranking, we are responsible for making science less objective and accurate. We create incentives for scientists to report only those tests that surpass a threshold of statistical significance, and not to not report those that fail to reach statistical significance, thereby exaggerating the implied likelihood of those that are reported. We discourage scientists from disclosing reasons why we might not want to trust their results, and we reward those who exaggerate results or contributions.
 
+When peer review committees expect submitted papers to be of a quality that feels subjectively as good as those previously published, they end up rejecting diverse work for simply being different. Thus, scientists expend a great amount of time and effort to meet expectations that have nothing to do with science. For example, most papers in my field typically reference 50-100 citations. Those writing a paper on an emerging topic may only need to cite five or ten citations, but will often add dozens of tangentially-related works to ensure their citation count is at least above the average of past accepted papers and that no reviewer will feel slighted by not having their work cited. The result is that the number of citations grows each year, most research papers have far more citations than they actually need, and so authors no longer have space to actually provide background and insight into the prior work that is actually important for the reader to understand.
+
+The subjectivity of social ranking gives aspiring scientists toxic mixed messages.  We reject intuitive results from being unsurprising or insufficiently novel, then reject results we find too surprising because such counterintuitive findings should not be published without further evidence. We fetishize novelty, encouraging new researchers to chase ideas that others identified as flawed before pursuing. When a novel approach succeeds, we may reject it because we can imagine a less-novel approach that we intuit to be superior that, to meet our subjective definition of a *significant contribution*, should have been tried as well.
+
+Any reviewer self-confident enough to believe that they could have done a better job of designing, conducting, or presenting another's research can reject it for choices they didn't approve of.
+
+When forced to justify why papers failed to meet our subjective criteria, we are more likely to focus on criticizing the work than on encouraging the changes that would make it reach our standards of objectivity and accuracy. To justify rejection on subjective criteria, the feedback is often itself nebulous (e.g., "the authors should do more to clarify their contribution.") Toxicity is inevitable when the primary purpose of feedback is to justify a decision and our social stratification system demands that most decisions are rejection.
+
+
+Some advocates for co-opting peer review for subjective purposes believe that senior scientists should *curate* research so that others know what to consume. Aside from the questionable premise that senior scientists can see the future better than junior scientists, making peer review the mechanism for gatekeeping does not help junior scientists avoid investing time into ideas their elders are skeptical of---it only hinders their ability to share the outcome of that investment.
+
+Adding myriad arbitrary justifications for rejecting scientific works from publication, and thereby delaying the dissemination of their findings, impedes scientific progress. It also forces us all to spend more time reviewing previously-rejected papers, and revising our own papers to meet the subjective whims of a previous reviewers (often only to have future reviewers objective to those changes.)
+
+Lastly, but perhaps most importantly, a system that requires publications to be exclusive ensures that most of the feedback scientists will receive is that their work is not good enough. This is harmful to their mental health, and ensures that only those without sufficiently "thick skins" will survive as scientists.
+
+#### Isolating scientific peer review from social ranking
+
+Is the design sound. (Before conducting.)
+
+Was it competently conducted and are the results presented accurately (after).  May not necessarily include conclusions beyond what is immediately clear from the paper.
+
+Are the results worthy of attention? Where does it deserve to be presented? Does it deserve recognition?
+
+We must create different systems for scientific peer review and for social ranking.
 
 In a world with finite money, attention, and other resources, scientists will always need to compete in what may seem like zero-sum games.
 When there is a conflict of interest, isolate it (don't ignore it).
-
-"Curation"
 
 Why must we make a decision on what is worthy of publication after an experiment is conducted, as to opposed to when it is designed?
 
 In a world where information is effectively instant and free, and presentations can be in person or remote, why should program committees decide which research deserves a 1000-seat auditorium and which deserves to be available only online?
 
-
-<!-- Don’t hate the player, hate the game. -->
-
-
-
-<!-- The ritual of peer review has such a sacred role in science that we, like members of religions and cults, blind ourselves its harms and its dissonance with our values. -->
-
-<!-- Like religions and cults, science has a ritual so sacred to us that we blind ourselves to its harms and its dissonance with our values: peer review. -->
-
-
-<!-- Outside perspectives are also important , our mere our choice to use a particular experimental design is itself bayesian evidence for suspicion--for any flawed research design, only those incapable of seeing the design's flaws will use it unwittingly. -->
-
-
-<!-- To anyone not blinded through membership in our cult, it seems obvious that a process employed for social stratification cannot help but become toxic.
-But, to deprogram my fellow scientists, and to help inoculate aspiring scientists, I will detail the inevitable consequences of this choice that we who perpetuate this system are complicit in.
-I will then debunk the common argument that we have no choice but to conduct peer review in this way for lack of better alternatives, so that we can begin to remove this cancer on science itself. -->
-
-<!-- Our perversion of peer review has made it less objective and is a cancer on science itself. It is time to open our eyes to the harms of this avoidable choice and our complicity in perpetuating these systems in the presence of alternatives. -->
-
-### Problems
-
-Discourages null results and replications resulting in survivor bias.
-The most unexpected results are the most interesting, but also those we should be most suspicious of.
-An idea may appear novel simply because others who have thought of it discarded it for good reason.
-
-
-#### Increases subjectivity
-
-##### Gatekeeping
-
-
-#### Disincentivizes integrity
-
-#### Slows science
-
-#### Decreases diversity of contribution types
-
-#### Unnecessary work
-Citations, revisions, conforming to expectations
 
 
 ### How to separate
@@ -96,11 +86,11 @@ Liberates us to put review before running studies.
 
 <!-- The zero-sum game of distributing prestige is toxic to scientific objectivity and to the mental health of scientists and would-be scientists. When integrated into  and is a cancer on science itself.  Cue the offspring. -->
 
-### Why status ranking is inherently toxic
+<!-- ### Why status ranking is inherently toxic
 
 To make a publication selective, conferences and journals must determine whether research papers constitute a "significant contribution" worthy of the status of being associated with their brand.
 
-The ambiguity in what "contribution" even means opens the floodgates of subjectivity, giving reviewers a blank check to reject work because they weren't sufficiently convinced it was important, or because it didn't cite work that they thought was worth mentioning, or because the way was organized in a way that they wouldn't have organized it. Anyone self-confident enough to believe that they could have done a better job of designing, conducting, or presenting the research can reject you for not doing what they would have done.
+The ambiguity in what "contribution" even means opens the floodgates of subjectivity, giving reviewers a blank check to reject work because they weren't sufficiently convinced it was important, or because it didn't cite work that they thought was worth mentioning, or because the way was organized in a way that they wouldn't have organized it. Anyone self-confident enough to believe that they could have done a better job of designing, conducting, or presenting the research can reject you for not doing what they would have done. -->
 
 <!-- Destroy trust in the review process -->
 
@@ -116,28 +106,6 @@ But the real cost is to mental health.
 
 ### Curation
 
-
-
-
-
-### Consequences
-
-As such, peer review committees have become the battle grounds in which the senior members of research communities argue over what ideas and directions are "important" and worthy of presentation. New initiates to our scientific endeavor are often collateral damage, especially those without powerful allies and those brave enough to pioneer work in areas that others have yet to grasp the importance of.
-
-
-### Consequences
-
-Biases participation against those who put up with these consequences.
-
-#### Wasted time
-
-New researchers quickly discover that time they thought they would be dedicating to running experiments and learning new things is, in fact, dedicated to rewording their findings so as not to offend or unnerve.
-It's bad for reviewers too!
-
-#### Delayed results
-#### Mental health
-
-A 20% accept rate means 80% of participants are being told they're not good enough.
 
 #### Biasing participation to exclude
 
