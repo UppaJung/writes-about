@@ -4,24 +4,47 @@
 
 <!-- em — , en – -->
 
-**Reviewing research to rank its perceived *importance* is incompatible with reviewing for *accuracy* and *objectivity*.**
+<!-- **Reviewing research to rank its perceived *importance* is incompatible with reviewing for *accuracy* and *objectivity*.** -->
+
+It is a convenient myth that the primary purpose of peer review is to protect scientific integrity by scrutinizing the accuracy and objectivity of scientific research. Ensuring research does not mislead is, indeed, a noble purpose worth pursuing. No matter how expert scientists are in designing, conducting, and presenting their research, they should invite scrutiny by those who are knowledgeable but disinterested. Those disinterested "peers" may catch errors or misleading statements that authors may have missed, and are less subject to the group think that can evolve among collaborating authors.
+
+However, the overriding purpose of peer review, as it is actually practiced in most of science, is actually that of *ranking*. Peer review is the linchpin of the system that we scientists use to rank the value of research and, by extension, to rank each other. We submit our research to conferences and journals each with has its own brand, tier of prestige, peer review process, and standards for acceptance. Conferences and journals part of a larger social stratification system that ranks the importance of research by where it is published, that ranks the importance of scientists by their ability to accumulate publications with prestigious brands, and that distributes jobs and prestige using these rankings.
+
+This system requires peer review committees to evaluate requirements beyond scientific integrity, for if these were the only standards all publications would have the same standard and too many papers would receive top ranking. So, peer review committees add requirements such that research be *novel*, *interesting*, *impactful*, or that it meets the the particularly nebulous catch-all (or *drop-all* for rejecting any paper) of having a *significant contribution* worthy of the publication.
+
+There are myriad ways in which these *ranking requirements* conflict with, and subvert, scientific-integrity requirements.
+
+Ranking requirements bias what gets published. For example, submissions that confirm the hopes and beliefs of peer reviewers will be more likely deemed significant, and be accepted, than results that defy reviewers' hopes. If peer review committees deem null results uninteresting, and twenty research teams test an attractive-but-false hypothesis, we can expect 19 results to be unpublishable and the only paper to survive peer review and to report the incorrect result that this false hypothesis is true (with the null hypothesis rejected with probability $p<0.05$.)
+
+Ranking requirements can bias how researchers write their papers, making them look more publishable at the risk of making them less scientific. Researchers may not detail their experimental designs in sufficient detail for results to be replicated, as such mundane information may be deemed uninteresting by reviewers. Better to have more space to explain why the results are significant. Also, its better to use space to discuss results that were statistically significant than for those that were not.
+
+Having to write papers to meet ranking requirements can be toxic to those who actually believe in scientific ideals. When writing on a new topic that may only have five or ten prior papers relevant enough to cite, we are compelled to add dozens more meet the ever-escalating average citation counts that reviewers expect. Those of us who would prefer to leave the interpretation of results and speculation to others are compelled to add "discussion" sections tainted by our perspectives. We invest time and effort we could be spending furthering science crafting our papers to meet ranking requirements, then are forced to delay publication and revise our papers to meet the subjective expectations of the next set of reviewers based on the subjective feedback of the previous reviewers. And, of course, there is the mental health impact of a system that demands a high rejection rate.
+
+Ranking requirements also harm reviewers. Our workload will include papers that had already met scientific requirements when previously peer reviewed and rejected. We may provide constructive feedback to authors who will simply re-submit their work to new reviewers without revising it. We feel obligated to participate in peer review because of its importance for protecting scientific integrity, but it is nearly impossible to do so without becoming complicit in the toxicity of the social stratification system built upon it.
+
+And so, many of us have evolved a series of lies that help us ignore our complicity as we perpetuate this system. Many attribute peer review's toxicity to the most egregious reviewers—the most visible symptoms of the very cancer we ourselves are feeding. Others ascribe value in "curating" research to separate the *important* from that which is merely *accurate*, as we did before papers could be shared for free online, before the invention of myriad tools to filter the resulting onslaught of information, and before the introduction of remote presentations that scale to accommodate any number of people who want to attend. We impose constraints that assume that the traditions of scientific communication cannot be change, and that we must continue doing things as we have always done them. Ironically, those of us in Computer Science, whose technical contributions have disrupts other industries are perversely unwilling to see our scientific traditions disrupted.
+
+<!-- To Escaping this system that co-opts peer review for ranking requires that we come to terms with our past complicity and commit to alternatives. -->
+
+<!-- s
+ - authors expend time writing and revising papers, and space in papers, to increasing perceived importance
+ - work is rejected and publication delayed due to lack of perceived importance.
+ - reviewing workloads increase as each peer review process necessitates a new set of reviewers to determine if the work meets that publications' threshold of importance
+  -->
+
+<!-- View science as a system. Guarded by toxicity. Only those who are immune the the toxicity enter. They become the new guards.
+"This is how we've always done it".
+Peer review for ranking is endemic to science, it is also toxic to science.
+ - Once can't participate in peer review without being complicit in ranking
+ - Biases science.
+ - We have biased science to include only those comfortable with their complicity in this system. -->
 
 
-Most scientists describe peer review to outsiders as a process for protecting scientific integrity. We explain that, no matter how expert we are in designing, conducting, and presenting research, we can make our work more *accurate* and *objective* by inviting disinterested parties to scrutinize it. After all, those who are objective are less likely to overlook errors or misleading statements that we may subconsciously ignore in our own work, and they were not subject to the group think that may have evolved among collaborators during the research.
 
-<!-- Alas, this ideal of scientific peer review, as a mechanism for truth and objectivity is mostly a fiction.
+<!-- 
+It ensures we have no idea how many experiments were run and discarded because results were insignificant, and so we cannot gauge whether our thresholds of statistical significance are meaningful.   
+When scientists need to present that work as *important*, not merely correct, they will inevitably be tempted to subconciously or conciously mislead others.  exclude presenting results that appear unimportant (those with statistically insignificant results), find ways to make results appear more important, or just keep re-submitting their work to different venues until reaching sympathetic reviewers who agree that it is important. Those unwilling to take such measures and tough out the mental health consequences of frequent rejection will be filtered out of scientific careers. -->
 
-**Peer review has been co-opted as a mechanism of social stratification, and this co-option is a toxin that is antithetical to our scientific goals and ideals.** -->
-
-But ensuring *accuracy* and *objectivity* it too often only the secondary purpose of peer review. New PhD students and other aspiring scientists quickly learn that peer review is the linchpin of the system that we scientists use to rank research and, by extension, to rank each other. We submit our research to conferences and journals each with has its own brand, tier of prestige, and peer review process. Each of these publications' peer review committees have their own expectations for what makes research *important* enough to publish, which go far beyond ensuring that it does not mislead. They introduce subjective measures such as *novelty,* *impact,* and the particularly nebulous catch-all (or *drop-all* for rejecting any paper) of *significance of contribution*.
-
-Conferences and journals exist within a larger social stratification system that ranks the importance of research by where it is published, that ranks the importance of scientists by their ability to accumulate publications with prestigious brands, and distributes jobs and prestige using these rankings of importance. These publications must reject research that may be *merely* accurate and objective (or can be easily revised to ensure it does not mislead) lest all such research would ranked equally.
-
-Because most publications and their peer review committees exist within this toxic system of social stratification, it is nearly impossible to participate in science without becoming complicit in it. And it *is* toxic. When scientists need to present that work as *important*, not merely correct, they will inevitably be tempted to exclude presenting results that appear unimportant (those with statistically insignificant results), find ways to make results appear more important, or just keep re-submitting their work to different venues until reaching sympathetic reviewers who agree that it is important. Those unwilling to take such measures and tough out the mental health consequences of frequent rejection will be filtered out of scientific careers.
-
-We have evolved a series of lies that help us ignore this complicity as we perpetuate this system. We attribute peer review's toxicity to the most egregious reviewers—the most visible symptoms of the very cancer we ourselves are feeding. We see value in "curating" research to separate the *important* from that which is merely *accurate*, as we did before the information age gave us the ability to publish papers for free, saw the invention of myriad tools to filter the resulting onslaught of information, and the introduction of remote presentations that scale to accommodate any number of people who want to attend.
-
-Escaping this system that co-opts peer review for social ranking requires that we come to terms with our past complicity and commit to alternatives.
 
 
 <!-- Most every scientist who has submitted work for peer review has received ill-informed, aggressive, or otherwise toxic reviews.
