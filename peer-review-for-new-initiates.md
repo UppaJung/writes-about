@@ -1,4 +1,4 @@
-## Peer Review Should Serve Science
+## Repurposing Peer Review
 
 <!-- ##### Scientific peer review is systemically toxic, and will be, so long as scientists allow it to be co-opted for social stratification. -->
 
@@ -15,6 +15,8 @@ These conferences and journals are part of science's larger social stratificatio
 This stratification system requires peer review committees to reject papers that merely scientific-integrity requirements, lest the top strata would be insufficiently exclusive. They do so by adding requirements such that a research submission be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
 
 <!-- Ranking conflicts with integrity -->
+<!-- #### Peer review for science and ranking are incompatible -->
+---
 
 Not only does ranking render scientific integrity secondary, *ranking requirements* conflict with, and subvert, scientific integrity.
 
@@ -31,18 +33,23 @@ In rejecting papers, reviewers feel obligated to provide feedback that justifies
 *Ranking requirements also toxic to reviewers.* We are burdened by the work of reviewing papers that had already met scientific integrity requirements when previously rejected. Since the game we play encourages authors to re-submit work to new reviewers, any efforts to provide constructive feedback that we might find value in a second reading is likely to be wasted. We feel obligated to participate in peer review because of its importance for protecting scientific integrity, but it is nearly impossible to do so without becoming complicit in the toxicity of the social stratification system built upon it. We are obligated to work with toxic reviewers who abuse the subjectivity of peer review, and to protect their identities, while observing damage they inflict that causes aspiring scientists to abandon careers in science.
 
 <!-- The lies we tell ourselves -->
+<!-- #### Facing the truth about ranking -->
+---
 
 One lie that allows us to perpetuate the stratification system is that responsibility for peer review's toxicity lies exclusively with the most egregious reviewers. The truth is that they are merely the most visible symptoms of the very cancer we ourselves are feeding.
 
-Another illusion is that as reviewers, we provide value in helping to "curate" research to separate the *important* from the merely *accurate*. In fact, review committees are biased by design to be older and more senior than the average researcher, and so our opinions of what's important are likely to be biased and outdated.
+Another comforting illusion is that as reviewers, we provide value in helping to "curate" research to separate the *important* from the merely *accurate*. In fact, review committees are biased by design to be more senior than the average researcher, and so our collective opinions of what ideas and developments are important cannot help but be biased against the most junior researchers, whose careers and and mental health are most vulnerable.
 
-Using peer review for curation may have had value before papers could be shared for free online and before the invention of myriad tools to filter the resulting onslaught of information. While peer review no longer needs to serve this purpose, those of us in Computer Science, whose technical contributions frequently disrupt other industries, are ironically averse to changing with the times.
+Using peer review for curation may have had value before papers could be shared for free online and before the invention of myriad tools to filter the resulting onslaught of information. It no longer does. Yet even those of us in Computer Science, whose technical contributions frequently disrupt other industries, are ironically averse to changing with the times.
 
 Lastly, we may believe that there is simply no escape from using peer review for stratification, as the universities and research labs that employ most of us rely on rankings for hiring and promotions.
 
 <!-- But we can -->
+---
 
-But, we *can* and *should* isolate peer review for scientific integrity from that used for ranking. We can start by creating peer review processes strictly scoped to evaluate scientific integrity. Such committees wouldn't evaluate whether a paper is worth publishing, but whether it is as complete, understandable, accurate,and objective as outside reviewers are capable of ensuring. If it is not yet ready to inform readers without misleading, reviewers should explain why and explain what changes are required.
+But, we *can* and *should* isolate peer review for scientific integrity from that used for ranking.
+
+We can start by creating peer review processes strictly scoped to evaluate scientific integrity. Such committees wouldn't evaluate whether research is worth publishing, but would help to ensure that when research is published the end product is more objective, accurate, understandable, and complete. If it is not yet ready to inform readers without misleading, reviewers should explain why and explain what changes are required.
 
 The systems and organizations that currently rely on peer review for ranking can and will adapt.
 
