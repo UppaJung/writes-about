@@ -69,6 +69,6 @@ For better or worse, removing ranking from scientific peer review, or even from 
 
 For aspiring scientists, learning to recognize the toxicity of stratification is key to surviving it and, hopefully, surviving to be part of the change.
 
-Until we change how we conduct peer review, each successive generation fo scientists will exclude amazing talent that failed to be "thick-skinned" and perseverant enough to survive in a system that has prioritized ranking over scientific integrity. Each generation will inflict harm on the next for no better reason that that "we've always done it this way" and we don't know how to change. The only way out is to look at the ranking-focused peer review with the objectivity of an outsider and come to the only reasonable conclusion: *reject*.
+Until we change how we conduct peer review, each successive generation fo scientists will exclude amazing talent that failed to be "thick-skinned" and perseverant enough to survive in a system that has prioritized ranking over scientific integrity. Each generation will inflict harm on the next for no better reason that that "we've always done it this way" and we don't know how to change. The only way out is to consider ranking-focused peer review from the perspective of an objective outsider, from which there is only one reasonable conclusion: *reject*.
 
 <!-- em — , en – -->
