@@ -1,14 +1,14 @@
 ## Rejecting Ranking-Focused Peer Review
 
-It is a convenient myth that the primary purpose of peer review is one of scientific integrity: to ensure research informs without misleading. Indeed, ensuring presented clearly, completely, objectively, and accurately *should* be paramount to scientists.
+We scientists like to propagate the convenient myth that the primary purpose of peer review is one of scientific integrity: to ensure research informs without misleading. Indeed, ensuring presented clearly, completely, objectively, and accurately *should* be paramount to scientists.
 
-Alas, the overriding purpose of peer review, as it is actually practiced in most of science, is *ranking*.
+Alas, the overriding purpose of peer review, as we actually practice it in most of science, is *ranking*.
 
-Peer review is the linchpin of the system that we scientists use to rank the value of research and, by extension, to rank each other. We submit our research to conferences and journals each with its own brand and tier of prestige. Each conference and journals has its own peer review processes, reviewers, and standards for acceptance, all of which are chosen to signal its tier of prestige.
+Peer review is the linchpin of the system that we scientists use to rank the value of research and, by extension, to rank each other. Our peer review committees are run by journals and conferences, each with its own brand and tier of prestige. They chose standards of acceptance and reviewers to signal that prestige.
 
-These conferences and journals are part of science's larger social stratification system: we rank the importance of research by where it is published; we rank the importance of scientists by their ability to accumulate publications with prestigious brands; we use these rankings to decide who is worthy of acclaim, jobs, trust, and attention.
+Peer review for these journals and conferences is the foundation of science's stratification system: we rank the importance of research by where it is published; we rank the importance of scientists by their ability to accumulate publications with prestigious brands; then we use these rankings to decide who is worthy of acclaim, jobs, trust, and attention.
 
-This system requires reviewers to reject papers that merely satisfy scientific-integrity requirements, lest the top strata would be insufficiently exclusive. Review committees add requirements such that submitted research be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
+This system requires reviewers to reject papers that merely satisfy scientific-integrity requirements, lest the top strata would be too inclusive. Review committees create exclusivity through requirements such that research be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
 
 <!-- Ranking conflicts with integrity -->
 ---
