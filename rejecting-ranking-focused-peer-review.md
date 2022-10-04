@@ -1,8 +1,8 @@
 ## Rejecting Ranking-Focused Peer Review
 
-We scientists like to propagate the convenient myth that the primary purpose of peer review is one of scientific integrity: to ensure research informs without misleading. Indeed, ensuring presented clearly, completely, objectively, and accurately *should* be paramount to scientists.
+We scientists like to describe peer review as a process devoted to scientific integrity: ensuring research is presented clearly, completely, objectively, and accurately. Indeed, ensuring research does not mislead should be the paramount goal of peer review; not only is it important within science, but to the press and public peer review is the best available signal of whether research can be trusted.
 
-Alas, the overriding purpose of peer review, as we actually practice it in most of science, is *ranking*.
+Alas, the overriding purpose of peer review, as we actually practice it in most of science, isn't integrity—it's *ranking*.
 
 Peer review is the linchpin of the system that we scientists use to rank the value of research and, by extension, to rank each other. Our peer review committees are run by journals and conferences, each with its own brand and tier of prestige. They chose standards of acceptance and reviewers to signal that prestige.
 
@@ -13,7 +13,7 @@ This system requires reviewers to reject papers that merely satisfy scientific-i
 <!-- Ranking conflicts with integrity -->
 ---
 
-Our use of peer review for ranking renders scientific integrity secondary and ranking requirements conflict with, and subvert, scientific integrity.
+Our use of peer review for ranking renders scientific integrity secondary and ranking requirements conflict with, and subvert, scientific integrity. And so, when we present peer review as a process to prevent scientists from unwittingly misleading the public (eliding its primary role as a ranking mechanism) we are, ironically, guilty of misleading the public.
 
 *Ranking requirements bias what gets published.* Submissions that confirm the hopes and beliefs of peer reviewers are more likely to be accepted than those that defy reviewers' expectations or dash their hopes. Consider, for example, the consequences when peer review committees deem null results unpublishable. If twenty research teams test an attractive but ineffective intervention, we can expect 19 teams to find no significant difference ($p>0.05$) and fail to publish. We can expect one of twenty to support the attractive-but-false hypothesis that the intervention is effective—and get published.
 
