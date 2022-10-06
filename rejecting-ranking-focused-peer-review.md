@@ -1,8 +1,8 @@
 ## Rejecting Ranking-Focused Peer Review
 
-We scientists like to present the purpose of peer review to be protecting scientific integrity: ensuring research is presented clearly, completely, objectively, and accurately. Indeed, preventing research from misleading should be the paramount not only within science, but to the press and public for which peer review is the best available signal of whether to trust research.
+We scientists like to describe peer review as a process for protecting scientific integrity: ensuring research is presented clearly, completely, objectively, and accurately. The press and public for use peer review to determine whether to trust research – as do scientists who lack domain expertise – and so preventing research from misleading should be our foremost goal.
 
-Alas, the overriding purpose of peer review, as we actually practice it in most of science, isn't integrity—it's *ranking*.
+Alas, integrity is not the paramount purpose of peer review as we actually practice it in much of science—the overriding goal is  *ranking*.
 
 Peer review is the linchpin of the system that we scientists use to rank the value of research and, by extension, to rank each other. Our peer review committees are run by journals and conferences, each with its own brand and tier of prestige. They chose standards of acceptance and reviewers to signal that prestige.
 
