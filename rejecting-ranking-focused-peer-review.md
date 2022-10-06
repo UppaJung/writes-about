@@ -4,12 +4,11 @@ We scientists like to describe peer review as a process for protecting scientifi
 
 Alas, in much of science, integrity is not paramount—the overriding goal of peer review in practice is *ranking*. Peer review is the linchpin of the system that we scientists use to rank research and, by extension, to rank each other.
 
-Our peer review committees are run by journals and conferences, each with its own brand and tier of prestige. They chose standards of acceptance and reviewers to signal that prestige.
+Our peer review committees are run by journals and conferences, each with its own brand and tier of prestige. They chose standards of acceptance and reviewers to signal that prestige. Peer review for these journals and conferences is the foundation of science's stratification system: we rank the importance of research by where it is published; we rank the importance of scientists by their ability to accumulate publications with prestigious brands; then we use these rankings to decide who is worthy of acclaim, jobs, trust, and attention.
 
-Peer review for these journals and conferences is the foundation of science's stratification system: we rank the importance of research by where it is published; we rank the importance of scientists by their ability to accumulate publications with prestigious brands; then we use these rankings to decide who is worthy of acclaim, jobs, trust, and attention.<!-- 
---> This system requires reviewers to reject papers that merely satisfy scientific-integrity requirements, lest the top strata would be too inclusive. Review committees create exclusivity through requirements such that research be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
+This system requires reviewers to reject papers that merely satisfy scientific-integrity requirements, lest the top strata would be too inclusive. Review committees create exclusivity through requirements such that research be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
 
-Our use of peer review for ranking conflicts with, and subverts, scientific integrity. And so, when we claim the purpose of peer review is to prevent scientists from unwittingly misleading ourselves and the public, eliding its primary role as a ranking mechanism, we are, ironically, guilty of misleading ourselves and the public.
+Our co-option of peer review for ranking conflicts with, and subverts, scientific integrity. And so ironically, when we say the purpose of peer review is to prevent scientists from unwittingly misleading ourselves and the public, and elide the primacy of ranking, we are guilty of misleading ourselves and the public.
 
 <!-- Ranking conflicts with integrity -->
 ---
