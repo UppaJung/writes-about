@@ -25,29 +25,29 @@ Another such expectation is that papers to include discussions that go beyond fa
 
 *Delays and re-submissions are disruptive to conducting science.* After months of waiting for reviews, authors are are expected to come back to speed on what we have written, revise per the subjective concerns of reviewers, and (unless lucky enough to be accepted in the first round) re-submit to a different set of reviewers with different (often conflicting) expectations, paper formatting rules, and other customs.
 
+At the lower strata are publications that peer review in name only, accepting any paper for which authors will pay publication fees or conference-registration fees. When we use *peer reviewed* synonymously with *accepted for publication* the term loses all value as an indicator of scientific integrity.
+
 ---
 
-Ranking-focused peer review also leads to excessively negative feedback. Feedback will unavoidably be negative because reviewers are obligated to justify their ratings to themselves, to their fellow committee members, and to the authors. When rejecting a submission, that feedback will necessarily be mostly negative, even if committees try to encourage reviewers to list some positives for every paper and to be constructive in presenting negative feedback. A system that must reject the majority of papers will thus necessarily provide much more negative feedback to the community than positive feedback, which is harmful to the community's mental health and particularly toxic to the most junior and least powerful members.
+Peer review co-opted for ranking cannot help but have excessively negative feedback, as most papers will be rejected, and most reviews will recommend rejection. Reviewers are obligated provide feedback to justify their recommendations to themselves, to their fellow committee members, and to the authors. Committees may try to encourage reviewers to list some positives for every paper and to be constructive in presenting negative feedback, but the overriding feedback must still justify rejection. Rejecting a majority of papers will necessarily provide more negative feedback to the community than positive feedback, which is harmful to the community's mental health and especially to those most junior and least powerful.
 
 The systems we've evolved to support ranking-focused peer review are also toxic to reviewers. We are burdened by the work of reviewing papers that had already met scientific-integrity requirements when previously rejected. We write feedback to authors who may be content to send their work unchanged to the next set of reviewers.
 
-We feel obligated to participate in peer review because we believe in its importance for protecting scientific integrity, but when peer review is primarily used to rank is impossible to contribute without becoming complicit. We work alongside reviewers who abuse the subjectivity and anonymity of peer review. We are obligated to protect their identities, but powerless to prevent the trauma their negative feedback inflicts on others.
+We feel obligated to participate in peer review because we believe in its importance for protecting scientific integrity. We work alongside reviewers who abuse the subjectivity and anonymity of peer review. We are obligated to protect their identities, but powerless to prevent the trauma their negative feedback inflicts on others. When peer review is primarily used to rank is impossible to contribute without becoming complicit.
 
 <!-- The lies we tell ourselves -->
 <!-- #### Facing the truth about ranking -->
 ---
 
 <!-- Metaphor of gated community and of NIMBY construction limits -->
-Many of us privileged enough to have survived ranking-focused peer review justify perpetuating this system like homeowners protecting their exclusive neighborhoods and cities. We talk about protecting the traditions and character of our communities. We attribute problems to the inevitable consequences of overcrowding and forces beyond our control. We respond to criticisms of the system as attacks on ourselves, our friends, and and others in our community who have served as reviewers, program chairs, and editors. We ask why we should have to experience change as opposed to asking how we can justify perpetuating the system.
+Many of us privileged enough to have survived ranking-focused peer review justify perpetuating this system like homeowners protecting their exclusive neighborhoods and cities. We talk about protecting the traditions and character of our communities. We attribute problems to the inevitable consequences of overcrowding and forces beyond our control. We respond to criticisms of the system as attacks on ourselves, our friends, and and others in our community who have served as reviewers, program chairs, and editors. We ask why we should have suffer change as opposed to asking how we can justify perpetuating a system that makes others suffer.
 
-We blame peer review's toxicity exclusively on the most egregious reviewers—a convenient *other* that is somehow among us despite not including any of our friends or respected colleagues. The most toxic reviewers make great scapegoats, but they are merely the most visible symptoms of the very cancer we ourselves are feeding. We collectively receive far more un-constructive ill-informed feedback than could be produced by this bogeyman.
+We blame peer review's toxicity exclusively on the most egregious reviewers. This convenient bogeyman somehow produces enough un-constructive ill-informed feedback to reject most of our papers while at the same time being a small minority that none of our friends or respected colleagues are guilty of being associated with.
 
 We also deceive ourselves that others want and need our expertise to "curate" research to separate the *important* from the merely *accurate*. In fact, review committees are biased by design to be more senior than the average researcher, and so our collective opinions of what ideas and developments are important cannot help but be biased against the most junior researchers, whose careers and and mental health are most vulnerable. Using peer review for curation may have had value before papers could be shared for free online and before the invention of myriad tools to filter the resulting onslaught of information. It no longer does.
 <!-- Yet even those of us in Computer Science, whose technical contributions frequently disrupt other industries, are strangely averse to changing with the times. -->
 
 Lastly, we may excuse our complicity by believing that there is simply no escape from using peer review for ranking and stratification, as the universities and research labs that employ most of us rely on rankings for hiring and promotions.
-
-Ironically, one reason we have a hard time reckoning with our role in this stratification system we perpetuate is that we lack an outsiders' objective perspective—our peers are also complicit. We have collectively deceived ourselves that this is all okay.
 
 <!-- But we can -->
 ---
@@ -64,10 +64,12 @@ Once it is possible to participate in scientific peer review without ranking, th
 
 ---
 
+Ironically, one reason we have a hard time reckoning with our role in this stratification system we perpetuate is that we lack an outsiders' objective perspective—our peers are also complicit. We have collectively deceived ourselves that this is all okay.
+
 And, for better or worse, removing ranking from scientific peer review, or even from scientific research, will not bring an end to stratification. The systems and organizations that rely on ranking-focused peer review for stratification will adapt and survive, as they have in the past. They are also good at manufacturing demand for stratification. In fact, many of the professional societies that host our conferences and publish our journals already have committees dedicated exclusively to stratifying their membership into "[grades](https://awards.acm.org/advanced-member-grades)". (While few of us think of ourselves as proponents of social stratification, we become implicit advocates when conforming to the pressure to publicly congratulate peers elevated to the next strata.)
 
 We should at least acknowledge and reckon with social stratification in science because our failure to do so has made it harder for aspiring scientists to survive it. Too much talent is lost because we expect researchers to be great scientists, but to also be "thick-skinned" and perseverant enough to survive in a system that has prioritized ranking over science.
 
-At a bare minimum, we must at least be honest with outsiders about how we actually practice peer review in science. We should also not be surprised when those objective outsiders reach a different conclusion about allowing ranking to co-opt scientific integrity: *strong reject*.
+At a bare minimum, we must at least be honest with outsiders about how we actually practice peer review in science. We should also not be surprised when those objective outsiders reach a different conclusion when presented with the choice to allow ranking to continue to co-opt scientific integrity in peer review: *strong reject*.
 
 <!-- em — , en – -->
