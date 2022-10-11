@@ -1,14 +1,13 @@
 ## Rejecting Ranking-Focused Peer Review
 
-We scientists often depict the goal of peer review to be protecting scientific integrity: ensuring research is presented clearly, completely, objectively, and accurately. The press and public for use peer review to determine whether to trust research – as do scientists who lack domain expertise – and so preventing research from misleading should, indeed, be paramount.
+We scientists often depict the goal of peer review to be protecting scientific integrity: ensuring research is presented clearly, completely, objectively, and accurately. The press and public for use peer review to determine whether to trust research – as do scientists who lack domain expertise – and so preventing research from misleading *should* be paramount.
 
-Alas, in much of science, integrity is not the predominant goal of peer review—in practice the overriding goal is *ranking*. Peer review is the linchpin of the system that we scientists use to rank research and, by extension, to rank each other.
+But in much of science integrity is not the predominant goal of peer review—in practice peer review is a tool for ranking the importance research and, by extension, for ranking each other.<!-- *ranking*. Peer review is the linchpin of the system that we scientists use
+--> At the foundation of this stratification system are the journals and conferences that publish research, and with its own brand and peer review committee. They signal their brand's strata of prestige by retaining distinguished reviewers and ensuring acceptance rates are low enough to convey exclusivity. We rank the importance of research by where it is published; we rank the importance of scientists by their ability to accumulate publications with prestigious brands; we then use these rankings to decide who is worthy of acclaim, jobs, attention… and positions on peer review committees.
 
-Our peer review committees are run by journals and conferences, each with its own brand. They signal their brand's strata of prestige by retaining distinguished reviewers and ensuring acceptance rates are low enough to convey exclusivity. Peer review for these journals and conferences is the foundation of science's stratification system: we rank the importance of research by where it is published; we rank the importance of scientists by their ability to accumulate publications with prestigious brands; then we use these rankings to decide who is worthy of acclaim, jobs, attention… and positions on peer review committees.
+To be exclusive, peer review committees must reject some submissions that merely satisfy scientific-integrity requirements, so they add requirements that research to be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
 
-Maintaining exclusivity requires reviewers to reject papers that merely satisfy scientific-integrity requirements. Review committees create exclusivity by requiring research to be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
-
-Our co-option of peer review for ranking conflicts with, and subverts, scientific integrity. And so ironically, when we depict peer review's purpose as preventing scientists from unwittingly misleading ourselves and the public, and elide the its use for ranking, we are guilty of misleading ourselves and the public.
+This co-option of peer review for ranking conflicts with, and subverts, scientific integrity. And so ironically, when we depict peer review's purpose as preventing scientists from unwittingly misleading ourselves and the public, and elide its role in ranking, we are ourselves guilty of misleading ourselves and the public.
 
 <!-- Ranking conflicts with integrity -->
 ---
