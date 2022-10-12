@@ -2,8 +2,8 @@
 
 We scientists often depict the goal of peer review as protecting scientific integrity: ensuring research is presented clearly, completely, objectively, and accurately. The press and public use peer review to determine whether to trust research – as do scientists who lack domain expertise – and so preventing research from misleading *should* be paramount.
 
-But, in much of science, integrity is not the predominant goal of peer review—in practice peer review is used to rank the importance research and, by extension, each other.<!-- *ranking*. Peer review is the linchpin of the system that we scientists use
---> The foundation of this stratification system are journals and conferences that publish research, each with its own brand. They signal their brand's strata of prestige by being selective in which submissions they accept. We rank scientists by their ability to accumulate publications with exclusive brands, deciding who is worthy of acclaim, jobs, attention, and positions on peer review committees.
+But, in much of science, integrity is not the predominant goal of peer review—in practice we use peer review to rank the importance research and, by extension, each other.<!-- *ranking*. Peer review is the linchpin of the system that we scientists use
+--> We publish research through journals and conferences, each of which with its own brand, and each of which signals its strata of prestige by being selective in which submissions they accept. We rank scientists by their ability to accumulate publications with exclusive brands, deciding who is worthy of acclaim, jobs, attention, and positions on peer review committees.
 
 To be exclusive, peer review committees must reject many submissions that merely satisfy scientific-integrity requirements, so they add requirements that research to be *novel*, *interesting*, *impactful*, or that it meets the particularly nebulous catch-all (or *drop-all* for rejecting any submission) of having a *significant contribution*.
 
