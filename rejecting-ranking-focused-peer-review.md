@@ -49,34 +49,45 @@ Alas, many of us have a hard time even imagining what peer review would be like 
 <!-- --- -->
 
 <!-- ### Part 2. Call to Action -->
-#### Conducting *gateless* scientific peer review
+
+#### Conducting *elucidative* scientific peer review
 
 Peer review should have one paramount goal: to prevent research from misleading its audience.
 
-As a model we should consider what how the most diligent members of the science press investigate the credibility of new scientific research. Even when it's peer reviewed, they conduct their own investigation into the work's credibility: reaching out to objective scientific experts, asking if they agree with the findings, and quoting them directly so that readers can draw their own conclusions. Journalists can't stop authors from publishing research, but they can try to prevent that research from misleading their audience.
+Journalists provide a useful model for working to prevent research from misleading without the ability to keep authors from publishing it. When reporting on new research, the most diligent members of the science press reach out to multiple objective scientific experts, ask those experts to speak to the credibility of research, and quote those experts so that readers know exactly what they said. When experts use language that may be unfamiliar to a broader audience, journalists work to make it understandable to them.
 
-We scientists should emulate this journalistic best practice. We should not be gatekeepers of what gets published, as much as journals and conferences may want us to do so to preserve their prestige and revenue models. Rather than writing reviews to address whether to allow work to be published, we should write reviews to prevent the work's audience from being mislead. Reviews should be written to be shared with with the work's audience, and to be understandable by that audience.
+The journalistic model is *elucidative*: it brings concerns and disagreements to the audience's attention rather than using those concerns to gate what the audience should know.
 
-But scientific peer review can go further, because reviewers have the opportunity to convince authors to address their concerns by improving the work. Reviewers can revise feedback when authors revise their work to address those concerns.
+We scientists can emulate this model by writing our reviews to be shared with the audience of the research, to be understandable by that full audience, and to ensure that audience is not mislead.
 
-Authors may disagree with reviewers concerns or other parts of a review, and may choose to rebut. Some reviewers may choose to rebut others' reviews, especially if they find a review prejudicial. Making these disagreements apparent, just as reporters do when quoting skeptical experts, is far better than summing up reviews into binary "accept" or "reject" decisions.
+<!-- We should write reviews to inform the audience of the research we are reviewing to ensure they are not mislead, and not addressed to other reviewers arguing whether the research should or should not be accepted. We might    question of whether the work should be accepted for publication to ensure it doesn't mislead, rather than to  Rather than writing reviews to address whether to allow work to be published, we should write reviews to prevent the work's audience from being mislead.  -->
 
-When authors are ready to publish work that as gatelessly peer reviewed they must make the reviews accessible to their audience. If authors want to publish a revision before the reviews are updated in response, or if reviewers are unwilling or unable to respond, authors must make the reviewed version(s) available along with the published version, elucidating what content was reviewed and what content has since changed.
+<!-- , as much as journals and conferences may want us to do so to preserve their prestige and revenue models -->
+
+But as scientific reviewers we can do more when we are concerned that research might mislead, by providing feedback that helps authors improve their work. We can revise our audience-directed feedback to note that the authors' revisions have addressed our concerns concerns, or we can simply remove those concerns from if they no longer apply.
+
+As authors, we may disagree with reviewers' concerns or other parts of a review, and may choose to rebut either through revisions to the work or through separate commentary. Some reviewers may choose to rebut others' reviews, especially if they find a review prejudicial. A process that makes our disagreements apparent, just as reporters do when quoting skeptical experts, is far better than one that sums up reviews into binary "accept" or "reject" decisions.
+
+When authors are ready to publish work as scientifically peer reviewed in the elucidative model, they must make the reviews accessible to their audience. If authors want to publish a revision before the reviews are updated in response, or if reviewers are unwilling or unable to respond, authors must make the reviewed version(s) available along with the published version, illuminating what content was reviewed and what content has since changed.
 
 <!-- Should authors want to publish a revision that is newer than the last version a reviewer addressed, they must make that prior version available as well. This allows their audience to see what content has changed since that reviewer reviewed the work. -->
+
+##### Implementation
+
+There are still many choices in how to institutionalize elucidative peer review. Which institution(s) should run it? How to best choose reviewers of varying expertise, objectivity, and availability for fast turn around? How much to charge authors and pay reviewers? Should authors be anonymous through the entire review process, until a reviewer has submitted their first review, or not at all? Do reviewers need to be anonymous or pseudonymous if they're not in a position to reject papers, or should the audience can evaluate the expertise of the reviewers unless reviewers explicitly opt for anonymity?
 
 The audience will want to know who wrote the peer reviews. Like press sources, reviewers might choose to be anonymous, pseudonymous, or named. When compared to peer review for gatekeeping, reviewers may feel less fearful of retribution and so less likely to expect anonymity.
 
 <!--  when there are no gatekeepersReviewing prior the the experiment also has the benefit of ensuring that reviewers' initial feedback is unbiased by the results. -->
 
-#### 4. How *gateless* peer review will change science
+#### 4. How *elucidative* peer review will change science
 
-To make *gateless* peer review a reality within a field or subfield, we need to create peer review committees dedicated to serving science, that will pair authors work with objective peers. They would act less like committees in that they would not vote to decide which papers are accepted or rejected, but they would likely need to agree on practices such as workload, timelines for initial feedback, and the number and scope of revisions that authors can reasonably expect reviewers to respond to.
+To make *elucidative* peer review a reality within a field or subfield, we need to create peer review committees dedicated to serving science, that will pair authors work with objective peers. They would act less like committees in that they would not vote to decide which papers are accepted or rejected, but they would likely need to agree on practices such as workload, timelines for initial feedback, and the number and scope of revisions that authors can reasonably expect reviewers to respond to.
 
 <!-- FIXME --  Sum up that we should do this -->
 
 
-Gateless peer review can even be started prior to research being conducted, when researchers have merely completed their experimental design and methodology. Starting reviews then would allow flaws to be fixed before incurring the cost to run the experiment. Our current approach identifies experimental flaws only after the work is complete, often after authors have graduated or started other jobs.
+Elucidative peer review can even be started prior to research being conducted, when researchers have merely completed their experimental design and methodology. Starting reviews then would allow flaws to be fixed before incurring the cost to run the experiment. Our current approach identifies experimental flaws only after the work is complete, often after authors have graduated or started other jobs.
 
 
 <!-- FIXME -- here, talk about benefits beyond toxicity  -->
