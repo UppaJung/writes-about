@@ -1,19 +1,18 @@
-## Let's Peer Review as we Say, Not as we Do
+## Peer Review as we Say, Not as we Do
+<!-- FIXME -- authors to investigators? -->
 
 We scientists say we practice peer review to protect the scientific integrity of research: employing objective experts to identify its flaws, evaluate its credibility, and ensure it does not confuse or mislead. Having convinced the press and public that peer review is a signal that research is credible, preventing research from misleading *should* be our paramount goal in conducting peer review.
 
-But in much of science, what we are actually doing when we peer review research is to rank it relative to other research competing for attention and, by extension, to rank our fellow scientists relative to each other. Peer review committees are run by journals and conferences, each of which has its own brand, and which signal brand prestige by being selective in accepting submissions. They use reviewers as gatekeepers to determine which research will be of interest to their audience.<!-- Our ability to accumulate publications with exclusive brands determines our career trajectory and our share of acclaim, attention, and – yes – positions on peer review committees. --> Being selective often means rejecting some submissions of sufficient integrity that lack such subjective qualities such as "novelty", "impact", or that particularly nebulous catch-all (really a *drop-all*) of a "significant contribution". As scientists, our ability to navigate our research through these gates determines our career trajectory in science's stratification system. 
+But in much of science, what we are actually doing when we peer review research is to rank it relative to other research competing for attention and, by extension, to rank our fellow scientists relative to each other. Peer review committees are run by journals and conferences, each of which has its own brand, and which signal brand prestige by being selective in accepting submissions. They use reviewers as gatekeepers to determine which research will be of interest to their audience.<!-- Our ability to accumulate publications with exclusive brands determines our career trajectory and our share of acclaim, attention, and – yes – positions on peer review committees. --> Being selective often means rejecting some submissions of sufficient integrity that lack such subjective qualities such as "novelty", "impact", or that particularly nebulous catch-all (really a *drop-all*) of a "significant contribution". As scientists, our ability to hurl our research over these gates determines our career trajectory in science's stratification system. 
 
-There are myriad ways in which our using peer review to gatekeep what is interesting undermines scientific writing, and is harmful to scientists and to science itself. So when claim peer review protects scientific integrity, supposedly preventing scientists from misleading ourselves and the public, we are mischaracterizing our current practice of peer review in a way that actually misleads ourselves and the public.
+There are myriad ways in which our using peer review to prescribe what is interesting enough to publish undermines scientific writing, and is harmful to scientists and to science itself. So when we claim peer review protects scientific integrity, supposedly preventing scientists from misleading ourselves and the public, we are mischaracterizing our current practice of peer review in a way that actually misleads ourselves and the public.
 
-Perversely, we make gatekeeping the overriding purpose of peer review even though this function has become almost entirely vestigial to science. Limiting what could be published was necessary in the era when exchanging information was expensive: when research was printed on paper, traveled by mail, and took up space in libraries. In a era with free publication servers we don't need peer reviewers to determine what is worth publishing. To decide what to read, we now have search engines, social sharing, micro-blogging, and myriad other mechanisms to filter through the information that competes for our attention. Yet, we still use peer reviewers to be arbiters of fashion, telling us which research is appealing enough to be modeled on their metaphorical runways and which must be left hanging backstage in science's sweaty dressing rooms.
+Perversely, we scientists make gatekeeping the overriding purpose of peer review even though this function has become almost entirely vestigial to science. There were once financial forces that made information exchange expensive and constrained how much could be published: when research was printed on paper, traveled by mail, and took up space in libraries. In an era where publication is effectively free we no longer need peer reviewers to determine what is worth publishing. As the information available to us grew exponentially, and we faced a deluge of information competing for our attention, we acquired new tools to filter it, such as search engines and social media sharing. We do not need peer reviewers to be arbiters of fashion, curating research appealing enough to model on their metaphorical runways and leaving the rest hanging backstage in science's sweaty dressing rooms.
 <!-- Perhaps for the slide version of this talk "Runways are an odd slightly-raised surface for scientists to choose to die on." or "When I ask fellow scientists whether they really want to be arbiters of fashion, I'm often surprised how many will choose a runway as the the hill they're willing to die on." -->
 
-In this manifesto, I'll review some of the way science is harmed when we use peer review as a gatekeeping mechanism and how we can excise gatekeeping to make peer better serve us better serve science, and better serve us all in our roles as authors of research, consumers of research, and peer reviewers.
+In this article I will lay out in detail why gatekeeping as a means to protect scientific integrity is a charade, examine what we can learn from other social systems for establishing consensus shared beliefs, and propose how we might emulate those systems so that peer review serves science.
 
-<!-- ### Part 1. Review -->
-#### Gatekeeping research subverts scientific integrity
-
+#### Peer review for gatekeeping harms science and scientists
 There are many ways using peer review to rank research, and determine which research is interesting enough to publish, harms scientific writing and causes science to mislead ourselves and others.
 
 **Gatekeeping biases the body of published results**. Submissions that confirm the hopes and beliefs of reviewers are more likely to be accepted than those that defy reviewers' expectations or dash their hopes. Among the many consequences is the potential for false discovery, especially when when peer review committees deem null results insufficiently interesting to publish. If twenty research teams test an attractive but ineffective intervention, we can expect 19 teams to find no significant difference ($p>0.05$) and fail to publish. We can expect one of twenty to find specious support the attractive-but-false hypothesis that the intervention is effective—and get published.
@@ -26,84 +25,121 @@ There are many ways using peer review to rank research, and determine which rese
 
 **Gatekeeping-induced delays disrupt authors' work and degrade our memories**. Time decays our ability to recall how we conducted our experiments, our observations during the experiments, and the tooling we used to process data and document our results. By the time have access to reviewers' feedback identifying what we failed to document, we may have already forgotten details that reviewers noticed we had elided. Coming back up to speed on that which we do remember also takes time and effort. Unless we are lucky enough to have our work accepted on its first submission, we must disrupt our other work to revise our submission to target a different publication, with different reviewers, with different interests, paper formatting rules, and other expectations.
 
-**Standards of review vary by gatekeeper and can be deceptive**. Every journal and conference has different standards and those standards change over time. Even the highest-strata conferences in my field are known to override some reviewer's integrity concerns if others believe the work will draw interest and attention. Lower-strata conferences are known to publish work they know to be flawed to meet financial or attendance goals. At the bottom strata are publications that provide the pretense of peer review while accepting any paper for which authors pay publication fees. Those unfamiliar with a field's varying strata of publications may have no idea whether a work that appears to be peer reviewed was reviewed, and what it was reviewed for.
+**Stratification built on gated peer review undermines scientific standards**. Every journal and conference has different standards of acceptance. Many journals and conferences publish work they know to be flawed to meet financial or attendance goals. The lowest strata publications may provide the pretense of peer review while accepting any paper for which authors pay publication fees. Even the most prestigious conferences in my field are known to override some reviewer's integrity concerns if others believe the work will draw interest and attention that might otherwise go to competing conferences. Yet, many outsiders are unfamiliar with these different standards, or unaware that scientific standards vary so broadly depending on the publication.
 
 <!-- --- -->
 <!-- **Co-opting peer review to rank research has broader harms.** -->
-#### 2. Gatekeeping research is harmful to scientists and science itself
+<!-- #### 2. Gatekeeping research is harmful to scientists and science itself -->
 
-Using peer review as a gatekeeping mechanism in service to stratification also has broader harms.
+**Peer reviewing for gatekeeping causes broader harms to science**.
 
 Conferences and journals that reject a majority of papers will necessarily provide more negative feedback to the community than positive feedback. Peer review committees may try to encourage reviewers to list some positives for every paper and to be constructive in presenting negative feedback, but the overriding feedback must still justify rejection if a paper is to be rejected. 
 
 The predominance of negative feedback biases who becomes a scientist. The scientific community loses talented aspiring scientists who are uncomfortable promoting their work as important, or who are too "thin-skinned" or "insufficiently perseverant" to discard feedback that conveys their work is uninteresting and unimportant. Those more comfortable promoting the importance of their work or whose sheer self confidence allows them to dismiss negative feedback survive.
 
-Having countless peer review committees of different strata is also burdens us with unnecessary work as reviewers. We are expected to review papers that had already met scientific-integrity requirements when previously rejected. We are asked to write feedback to authors who may be content to send their work unchanged to the next set of reviewers with different subjective expectations of what is important.
+Having countless peer review committees of different strata is also burdens us with unnecessary work as reviewers. We must re-review papers that had already met scientific-integrity requirements when previously rejected. Our efforts to provide constructive feedback are discarded by authors who assume what their work really needs is a new set of reviewers with different subjective expectations.
 
-Being part of a system that produces toxic feedback for authors is also toxic to us as reviewers. We must work alongside reviewers who abuse the subjectivity and anonymity of peer review. We witness the trauma of those who receive toxic feedback while our obligation to protect the identities of those writing toxic feedback (a condition of participating in the system) and can't help but feel involuntarily complicit in harm, even if we volunteered with the intent of serving science.
+Being part of a system that produces toxic feedback for authors is also toxic to us as reviewers. We review alongside those who abuse the subjectivity and anonymity of peer review. We witness the trauma suffered by recipients of toxic feedback while we are obligated to protect those creating the toxins.
 <!-- 
 If only we could perform our scientific duties without participating in a stratification system toxic to science! -->
 
-Alas, many of us have a hard time even imagining what peer review would be like if our job were not to be arbiters of what should be published.
+Without alternatives to gated peer review, we each must choose between shirking our scientific duty to review others' work or becoming ever more complicit in the system that exposes authors to unnecessarily toxic feedback.
 
 <!-- --- -->
 
 <!-- ### Part 2. Call to Action -->
 
-#### Conducting *elucidative* scientific peer review
+#### Other systems for establishing shared beliefs
 
-Peer review should have one paramount goal: to prevent research from misleading its audience.
+Peer review is part of a larger system of rituals that scientists use to build consensus around beliefs. In revaluating peer review, it is worth stepping back to evaluate how other systems establish consensus beliefs.
 
-Journalists provide a useful model for working to prevent research from misleading without the ability to keep authors from publishing it. When reporting on new research, the most diligent members of the science press reach out to multiple objective scientific experts, ask those experts to speak to the credibility of research, and quote those experts so that readers know exactly what they said. When experts use language that may be unfamiliar to a broader audience, journalists work to make it understandable to them.
+Justice systems investigate and seek to test hypotheses where lives hang in the balance: did someone ("a suspect") commit a criminal offense for which they should be punished. As anyone familiar with procedural television dramas knows, the criminal justice system separates the roles of investigating crimes from those who prosecute the offenders. The system's designers envisioned that those who choose to investigate a suspect might be biased to assume that hypothesis is correct, and so someone more objective should evaluate the collected evidence to decide whether it is strong enough to support prosecuting the hypothesis. Then, the prosecutor must make the case to a panel of members of the public, a jury, who final judgement.
 
-The journalistic model is *elucidative*: it brings concerns and disagreements to the audience's attention rather than using those concerns to gate what the audience should know.
+From the perspective of those in criminal justice – with all its flaws and biases – how corrupt science must seem; first, for allowing researchers to both investigate and prosecute a hypothesis; and second, for placing final judgement in the hands of anonymous investigators, some of whom may be prosecuting (or have prosecuted) similar or competing hypotheses.
 
-We scientists can emulate this model by writing our reviews to be shared with the audience of the research, to be understandable by that full audience, and to ensure that audience is not mislead.
+If we learned from the criminal just system, we would not encourage scientists to draw judgements beyond that which can be inferred by the reader from the evidence presented. We would also try to condense the opinions of peer reviewers into a boolean judgements of the validity of a work and treat acceptance as scientific consensus that the work is credible.
+
+Journalists are also investigators who face decisions about what facts to treat as shared truths and who must reckon with their larger role of establishing shared beliefs. Those journalists who strive for impartiality try to let the observations they report speak for themselves.
+
+For a model of how we might prevent research from misleading without gatekeeping what gets published, we might look to how the most diligent journalists report on new scientific research: they reach out to multiple objective scientific experts, ask those experts to speak to the credibility of research and the conclusions that might be drawn from it, and quote those experts so that readers know exactly what they said. When experts use language that may be unfamiliar to a broader audience, the best journalists help make it understandable to that audience.
+
+The model of investigative journalism is *elucidative*: it informs the audience about observed disagreements rather than declaring the winner.
+
+#### Like scientists, peer review should investigate and elucidate
+
+Our existing publication model causes on scientists to be investigators, prosecutors, and jurors. The latter two roles should give us pause.
+
+If science is to be objective and credible, we must be investigators first. The better we design and elucidate our scientific methodology and results, the better we enable others to draw accurate conclusions and build a shared consensus around it.
+
+When conducting research as scientific investigators, we should be wary of any obligation to advocate for conclusions that justify our work is important or significant. When acting as peer reviewers to investigate others' work for errors, misleading statements, or other shortcomings, we should also be wary of any obligation to go beyond elucidating our findings and draw conclusions.
+
+To best serve science, we should thus conduct *elucidative* peer review.
+
+In elucidative peer review, we address our concerns about how the research might mislead or confuse to the audience of the research, which we want to keep from being mislead or confused. We write our reviews to accompany the research we are reviewing and be *accessible* to that full audience (in both senses of the word).
 
 <!-- We should write reviews to inform the audience of the research we are reviewing to ensure they are not mislead, and not addressed to other reviewers arguing whether the research should or should not be accepted. We might    question of whether the work should be accepted for publication to ensure it doesn't mislead, rather than to  Rather than writing reviews to address whether to allow work to be published, we should write reviews to prevent the work's audience from being mislead.  -->
 
 <!-- , as much as journals and conferences may want us to do so to preserve their prestige and revenue models -->
 
-But as scientific reviewers we can do more when we are concerned that research might mislead, by providing feedback that helps authors improve their work. We can revise our audience-directed feedback to note that the authors' revisions have addressed our concerns concerns, or we can simply remove those concerns from if they no longer apply.
+But unlike journalists, we scientific reviewers we can help prevent the research from misleading by persuading the authors to revise their work to eliminate our causes for concern or, when that's not possible, to disclose those concerns on their own. When persuasion works and authors successfully address our concerns, we can revise our audience-directed feedback to remove our former concerns or note that we are satisfied with how authors addressed them.
 
-As authors, we may disagree with reviewers' concerns or other parts of a review, and may choose to rebut either through revisions to the work or through separate commentary. Some reviewers may choose to rebut others' reviews, especially if they find a review prejudicial. A process that makes our disagreements apparent, just as reporters do when quoting skeptical experts, is far better than one that sums up reviews into binary "accept" or "reject" decisions.
+As authors, we may disagree with those who review are work, and we may choose to rebut their concerns either by addressing them within the work or through separate commentary. Others reviewers may also choose to rebut reviews they find inaccurate or prejudicial. Making our disagreements apparent gives our audience a more accurate and nuanced view of how science works than summarizing it into a single "accept" or "reject" decision.
 
-When authors are ready to publish work as scientifically peer reviewed in the elucidative model, they must make the reviews accessible to their audience. If authors want to publish a revision before the reviews are updated in response, or if reviewers are unwilling or unable to respond, authors must make the reviewed version(s) available along with the published version, illuminating what content was reviewed and what content has since changed.
+When we are ready to publish work work we have authored as scientifically peer reviewed in the elucidative model, we must make the reviews accessible to our audience. If we want to publish a revision before the reviews are updated in response, or if reviewers are unwilling or unable to respond, we must make the reviewed version(s) available along with the published version, illuminating what we have changed since each reviewer last weighed in.
 
 <!-- Should authors want to publish a revision that is newer than the last version a reviewer addressed, they must make that prior version available as well. This allows their audience to see what content has changed since that reviewer reviewed the work. -->
 
-##### Implementation
 
-There are still many choices in how to institutionalize elucidative peer review. Which institution(s) should run it? How to best choose reviewers of varying expertise, objectivity, and availability for fast turn around? How much to charge authors and pay reviewers? Should authors be anonymous through the entire review process, until a reviewer has submitted their first review, or not at all? Do reviewers need to be anonymous or pseudonymous if they're not in a position to reject papers, or should the audience can evaluate the expertise of the reviewers unless reviewers explicitly opt for anonymity?
+#### Elucidative peer review is better for us all
 
-The audience will want to know who wrote the peer reviews. Like press sources, reviewers might choose to be anonymous, pseudonymous, or named. When compared to peer review for gatekeeping, reviewers may feel less fearful of retribution and so less likely to expect anonymity.
+<!-- Investigate, report, conclude. -->
 
-<!--  when there are no gatekeepersReviewing prior the the experiment also has the benefit of ensuring that reviewers' initial feedback is unbiased by the results. -->
+Elucidative peer review had advantages over prescriptive review whether we are authoring, reviewing, or consuming research.
 
-#### 4. How *elucidative* peer review will change science
+**Reviewing** research via elucidative peer review allows us to serve science without being complicit in ranking and gatekeeping. It gives our reviews a higher purpose and broader audience. It also gives lightens our reviewing workloads, as authors need not resubmit their work repeatedly in search of reviewers who consider their work interesting enough to publish—each work needs only one set of reviewers.
 
-To make *elucidative* peer review a reality within a field or subfield, we need to create peer review committees dedicated to serving science, that will pair authors work with objective peers. They would act less like committees in that they would not vote to decide which papers are accepted or rejected, but they would likely need to agree on practices such as workload, timelines for initial feedback, and the number and scope of revisions that authors can reasonably expect reviewers to respond to.
+**As authors**, when we write work that will undergo elucidative peer review, we can write for our audience and not for reviewers, and prioritize scientific content over reviewers' subjective interests. We an expect feedback that is more constructive and timely. We need only wait for reviewers to read and respond to our work to get feedback, and we need only wait until we are satisfied that we have sufficiently addressed reviewers concerns to publish it.
 
-<!-- FIXME --  Sum up that we should do this -->
+Under the elucidative model, we could even submit our experimental methodology for review, using reviewers' initial feedback to improve those experimental designs, *prior* to running experiments and reporting results. We could then seek further feedback after completing the research. Currently, peer review only reveals experimental design flaws after we have spent all the resources needed to run an experiment, and often after key co-authors have graduated or started other jobs.
 
+**As consumers** of research, we benefit from access to objective insight into the credibility of research and faster access to research, since publication is no longer gated by convincing a committee the work is interesting. We regain the autonomy to choose what interests us, no longer in the hands of peer review committees biased in favor of seniority.
 
-Elucidative peer review can even be started prior to research being conducted, when researchers have merely completed their experimental design and methodology. Starting reviews then would allow flaws to be fixed before incurring the cost to run the experiment. Our current approach identifies experimental flaws only after the work is complete, often after authors have graduated or started other jobs.
+As consumers of research, we might even demand more control over what interests us, such by getting express what we want to see presented at conferences so that scheduling algorithms can be optimized to *our* collective interests: allocating the largest spaces to the presentations that more of us want to see and the more intimate spaces to those with smaller audiences. (If there is not enough interest for a work to be allocated presentation space, the authors will likely have time for one-on-one discussions with those of us who want to know more about their work.)
 
+-------
 
-<!-- FIXME -- here, talk about benefits beyond toxicity  -->
+The difference between prescriptive and elucidative peer review cuts to a deeper question about our role as scientific investigators: does our job end when we report our observations and results of our analyses, or should we also draw broader conclusions.
 
+Presciptive peer review demands that scientists acting as authors draw interesting conclusions and demands that those acting as reviewers judge these conclusions.
 
-<!-- FIXME -- good time to point out other uses, such as pre-experiment -->
+Discomfort with investigators also being advocates for conclusions is not unique to the field of science.
+In the US criminal justice system, we separate the role of investigator and prosecutor. (As anyone who knows the opening line of the TV classic "Law and Order" knows.) We are skeptical of judges who are too loyal to either those in the role of prosecuting or defending.
+<!-- In the criminal justice system, the people are represented by two separate, yet equally important, groups: the police, who investigate crime; and the district attorneys, who prosecute the offenders. These are their stories -->
+
+Again, when we look to the most diligent journalists, we will find that when authors and their peers agree on a conclusion, journalists will quote the objective peers because their objectivity makes them more credible. 
+
+If we do a good enough design and documenting our experimental designs, detailing our observations and performing and reporting our analyses, our objective peers, and perhaps even our audience, should be able to draw the conclusions from our research as we would. 
+
+Prescriptive peer review model forces authors to draw conclusions, and forces peer reviewers to decide whether to accept conclusions, both of which push scientists from the comfortable role of investigators and reporters into the less comfortable role of judge.
+
+In elucidative peer review, authors have the option to leave conclusions to the reader, whereas 
+
+---
+
+Practicing peer review for the purpose of ranking is like an anachronistic religious bloodletting ritual, and our journals and conferences are the churches and temples that conduct and perpetuate this rite without scrutiny as to its modern relevance. If authors have access to scientific peer review, there is no reason to conduct peer review for either of these institutions.
+
+To make elucidative peer review a reality we need institutions to run it, scientists to volunteer to review others' work, and authors to submit their work for review.
+
+Aside from the invariant the reviewers aren't in a position to reject work, and write their reviews to bring concerns to light for the work's audience, there are many different choices that might vary in how we implement elucidative peer review.
+
+Which institution(s) should conduct reviews? What should be the requirements for reviewers to serve? When work is submitted, how should reviewers be selected given candidates' varying expertise, objectivity, and availability for fast turn around? Should authors have to pay to have their work reviewed, should reviewers be paid, and if so how much? Should authors be anonymous through the entire review process, until a reviewer has submitted their first review, or not at all? Do reviewers need to be anonymous or pseudonymous by default even if they're not in a position to reject papers, or can they be named by default?
+
 
 #### Excising the vestiges of ranking
 
 Practicing peer review for the purpose of ranking is like an anachronistic religious bloodletting ritual, and our journals and conferences are the churches and temples that conduct and perpetuate this rite without scrutiny as to its modern relevance. If authors have access to scientific peer review, there is no reason to conduct peer review for either of these institutions.
 
 Without the pretense of protecting scientific integrity, journals are effectively awards committees that endow prestige onto work within their field or subfield. Those who like awards committees and feel they serve the community can contributing to them. The rest of us should feel no obligation.
-
-Conferences do serve a purpose: bringing researchers together and providing a forum for researchers to present their work. We should be suspicious of the use of peer review committees to curate which research gets presented at conferences, as most review committees are biased in favor of more senior researchers over those with newer ideas and more vulnerable positions. Better to ask prospective attendees directly which of the candidate presentations we are interested in attending and curating a schedule optimized to give us what we want, not want reviewers think we want: allocating the largest spaces to the presentations with the largest audiences and the more intimate spaces to those with small but passionate audiences. Authors of work that have insufficient interest to warrant presentation space can still use the conference to meet people who want to talk to them about their work.
-
-These institutions have the most to lose if we start to conduct *scientific* peer review, putting the needs of those of us who write, consume, and review scientific research above their need to maintain a valuable brand. 
 
 Alas, most of us feel deep loyalty to these institutions and their brands and the validation they give us. We see criticisms of these institutions as attacks on ourselves, our friends, and others in our community who have served as reviewers, program chairs, and editors. Our collective loyalty and complicity with these institutions makes it hard fo us to deprogram ourselves and reckon with the harms they cause.
 
@@ -112,45 +148,6 @@ Some of us avoid reckoning with our complicity by placing all the blame for peer
 Others justify perpetuating these institutions in much the same way that homeowners justify protecting their exclusive neighborhoods. We talk about cherishing the traditions and character of our communities. We attribute problems to the inevitable consequences of overcrowding and forces beyond our control.
 
 
-
-
----
-
-
-
-
-<!-- The lies we tell ourselves -->
-<!-- #### Facing the truth about ranking -->
----
-
-<!-- Metaphor of gated community and of NIMBY construction limits -->
-
-
-
-<!-- Yet even those of us in Computer Science, whose technical contributions frequently disrupt other industries, are strangely averse to changing with the times. -->
-
-Lastly, many of us excuse our complicity by asserting that there is simply no escape from the system that demands stratification. Journals and conferences need exclusive brands to attract submissions. Hiring and tenure committees need exclusive publications to rank candidates. We simply can't imagine peer review any other way.
-
-<!-- But we can -->
----
-
----
-
-There will be resistance to science-first peer review. We are accustomed to conducting peer review *for* conferences and journals, when the two stakeholders we really should be working for are authors and their audience. Our collective complicity in using peer review for stratification has left us with few objective peers to question this choice.
-
-Fortunately, there is little in today's peer review system that prevents those who want to request and participate in science-first peer review from doing so. We should establish science-first review committees, volunteer to review for them, and submit to them.
-
-<!-- All we need to start conducting science-first peer reviews is a quorum of scientists ready to put authors, their audience, and reviewers before the journals, conferences, and the professional societies that have historically controlled peer review committees and made peer review serve their purposes. We simply need enough of us willing to conduct reviews, and a mechanism for pairing research to reviewers who are sufficiently objective, sufficiently knowledgeable, and who are able to provide timely feedback.
- -->
-
-And, so long as we participate in peer review that puts stratification over science, we can move forward simply by being honest with the press and the public about what peer review really means when we make that choice. When we can not do as we say, we must at least say what we do, so that objective outsiders can render their opinions. That is, after all, what science should be about.
-
-<!-- Similarly, the more forthcoming we can be with aspiring scientists about the toxicity of social stratification in science, and the role of peer review in that system, the more might survive to help us change it. -->
-
-<!-- And, for better or worse, creating science-first peer review will not bring an end to stratification. The systems and organizations that feed on stratification will continue to find ways to sort us into "[grades](https://awards.acm.org/advanced-member-grades)". There will always be temptations for scientists to put themselves above science. 
- -->
-<!-- (While few of us think of ourselves as proponents of social stratification, we become implicit advocates when conforming to the pressure to publicly congratulate peers elevated to the next strata.) We should at least acknowledge and reckon with social stratification in science because our failure to do so has made it harder for aspiring scientists to survive it. -->
- 
 
 
 <!-- em — , en –   …  -->
