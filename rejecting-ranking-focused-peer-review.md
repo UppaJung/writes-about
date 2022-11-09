@@ -100,9 +100,11 @@ Under the elucidative model, we could even submit our experimental methodology f
 
 As consumers of research, we might even demand more control over what interests us, such by getting express what we want to see presented at conferences so that scheduling algorithms can be optimized to *our* collective interests: allocating the largest spaces to the presentations that more of us want to see and the more intimate spaces to those with smaller audiences. (If there is not enough interest for a work to be allocated presentation space, the authors will likely have time for one-on-one discussions with those of us who want to know more about their work.)
 
-**Those who stand to lose** by the adoption of elucidative peer review are the journals and conferences who use the veneer of scientific integrity as a pretense for employing (if the word applies for unpaid labor) scientists to maintain their prestigious brands. They are the churches and temples whose survival depends on our willingness to perpetuate this anachronistic religious bloodletting ritual. If authors have access to elucidative peer review, and can reach an audience without their help, they can no longer extract rents for the prestige we give them through our allegiance.
+**Those who stand to lose** by the adoption of elucidative peer review are the journals and conferences who use the veneer of scientific integrity as a pretense for employing (if the word applies for unpaid labor) scientists to maintain their prestigious brands. They are the churches and temples whose survival depends on our perverse willingness to collectively torture ourselves perpetuating an anachronistic bloodletting ritual. Most are willing because they see no alternative.
 
-As much as we may feel indebted to those publications whose acceptances helped establish our places in science's stratification system, the reputation of the scientific endeavor rests on our ability to recognize that that the practices they perpetuate are harmful, unnecessary, and most importantly, unscientific.
+With access to elucidative peer review, and the ability to establish credibility with an audience without appealing to prestigious publications, we might see through this illusion of necessity. Without this illusion, journals and conferences could no longer extract rents for the prestige we give them through our allegiance.
+
+The reputation of the scientific endeavor rests on our ability liberate science of its toxic vestigial functions and those that would have us perpetuate them.  As much as we may feel indebted to those publications whose acceptances helped establish our places in science's stratification system, we must recognize that these masters do not serve us, but enslave us.
 
 <!-- #### Moving forward -->
 
